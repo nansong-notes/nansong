@@ -6,4 +6,4 @@
 
 
 ## 日记
-2026.9.13-2026.9.27（
+2026.9.13-2026.9.27（https://github.com/nansong-notes/nansong/blob/d83369fe1ed5a77c7434c344286e214c85f65d62/2026.9.27)
